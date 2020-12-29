@@ -9,6 +9,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <header><p>Lorem ipsum</p></header>
+
       <main className={styles.main}>
         <h1 className={styles.title}>
           My <a href="https://nextjs.org">Next.js!</a>

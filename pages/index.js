@@ -9,7 +9,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header><p>Lorem ipsum</p></header>
+      <header className={styles.header}>
+        <p>Lorem ipsum</p>
+      </header>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
